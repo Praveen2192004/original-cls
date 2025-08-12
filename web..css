@@ -1,0 +1,19 @@
+button {
+  background: #07ef39;
+  border: 1px solid #e80a8f;
+  border-radius: 4px;
+  padding: 0.8em 1em;
+  box-shadow: 0 4px 0 #0d0e0d;
+  transition: box-shadow 0.1s, transform 0.1s;
+}
+
+button:active {
+  transform: translateY(4px);
+  box-shadow: 0 0 0 #11bb25;
+}
+input{
+    background-color: rgb(201, 225, 83);
+}
+body{
+    background-image: url('images.jpeg');
+}
